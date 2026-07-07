@@ -1,0 +1,331 @@
+{
+  "tomato_early_blight": {
+    "displayName": "Tomato — Early Blight",
+    "crop": "Tomato",
+    "symptoms": "Dark brown spots with concentric rings, usually starting on older, lower leaves.",
+    "organicTreatment": [
+      "Remove and destroy affected leaves immediately — don't compost them",
+      "Spray a neem oil solution every 7-10 days on remaining foliage",
+      "Apply a baking soda spray (1 tbsp baking soda + a few drops of liquid soap per liter of water) as a mild fungicide",
+      "Improve airflow by pruning lower leaves that touch the soil"
+    ],
+    "prevention": [
+      "Rotate crops — avoid planting tomatoes in the same spot each year",
+      "Water at the base of the plant, not on the leaves",
+      "Mulch around the base to stop soil splashing onto leaves"
+    ],
+    "severity": "medium"
+  },
+  "tomato_late_blight": {
+    "displayName": "Tomato — Late Blight",
+    "crop": "Tomato",
+    "symptoms": "Large, water-soaked dark patches on leaves and stems that spread fast, especially in cool, wet weather.",
+    "organicTreatment": [
+      "Remove and destroy infected plants promptly — this disease spreads very quickly",
+      "Apply a copper-based organic fungicide as soon as symptoms appear",
+      "Avoid overhead watering and increase spacing between plants for airflow"
+    ],
+    "prevention": [
+      "Choose blight-resistant tomato varieties where available",
+      "Avoid working in the garden when foliage is wet",
+      "Space plants generously to reduce humidity around leaves"
+    ],
+    "severity": "high"
+  },
+  "tomato_healthy": {
+    "displayName": "Tomato — Healthy",
+    "crop": "Tomato",
+    "symptoms": "No signs of disease detected. Leaves are green and uniform.",
+    "organicTreatment": [
+      "No treatment needed",
+      "Continue regular watering and monitoring"
+    ],
+    "prevention": [
+      "Keep monitoring weekly for early signs of pests or disease",
+      "Maintain good soil nutrition with compost"
+    ],
+    "severity": "low"
+  },
+  "tomato_leaf_mold": {
+    "displayName": "Tomato — Leaf Mold",
+    "crop": "Tomato",
+    "symptoms": "Pale yellow spots on the upper leaf surface with olive-green to gray fuzzy mold underneath.",
+    "organicTreatment": [
+      "Remove affected leaves and improve ventilation around plants",
+      "Reduce humidity — avoid overhead watering, especially late in the day",
+      "Apply a sulfur-based organic fungicide if the problem persists"
+    ],
+    "prevention": [
+      "Space plants well and stake/trellis to improve airflow",
+      "Water early in the day so leaves dry before evening"
+    ],
+    "severity": "medium"
+  },
+  "tomato_bacterial_spot": {
+    "displayName": "Tomato — Bacterial Spot",
+    "crop": "Tomato",
+    "symptoms": "Small, dark, water-soaked spots on leaves and fruit that may develop yellow halos.",
+    "organicTreatment": [
+      "Remove severely affected leaves and fruit",
+      "Apply an organic copper-based bactericide",
+      "Avoid handling plants when leaves are wet to prevent spreading bacteria"
+    ],
+    "prevention": [
+      "Use disease-free seeds and seedlings",
+      "Rotate crops and avoid overhead irrigation"
+    ],
+    "severity": "medium"
+  },
+  "potato_early_blight": {
+    "displayName": "Potato — Early Blight",
+    "crop": "Potato",
+    "symptoms": "Dark, target-like concentric rings on older leaves, often starting near the base of the plant.",
+    "organicTreatment": [
+      "Remove infected foliage as soon as it's noticed",
+      "Apply a copper-based organic fungicide on a 7-10 day cycle",
+      "Ensure plants have good spacing for airflow"
+    ],
+    "prevention": [
+      "Rotate potato crops every 2-3 years",
+      "Hill soil around the base to protect tubers",
+      "Avoid overhead watering"
+    ],
+    "severity": "medium"
+  },
+  "potato_late_blight": {
+    "displayName": "Potato — Late Blight",
+    "crop": "Potato",
+    "symptoms": "Dark, greasy-looking lesions on leaves that spread rapidly, especially in cool, damp weather.",
+    "organicTreatment": [
+      "Remove and destroy infected plants immediately",
+      "Apply copper-based organic fungicide preventively before rainy periods",
+      "Harvest unaffected tubers early if the disease is spreading in the field"
+    ],
+    "prevention": [
+      "Plant certified disease-free seed potatoes",
+      "Avoid excess irrigation and improve field drainage"
+    ],
+    "severity": "high"
+  },
+  "potato_healthy": {
+    "displayName": "Potato — Healthy",
+    "crop": "Potato",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": [
+      "No treatment needed",
+      "Continue regular monitoring"
+    ],
+    "prevention": [
+      "Maintain crop rotation and healthy soil"
+    ],
+    "severity": "low"
+  },
+  "corn_common_rust": {
+    "displayName": "Corn — Common Rust",
+    "crop": "Corn",
+    "symptoms": "Small, reddish-brown, raised pustules scattered on both sides of the leaves.",
+    "organicTreatment": [
+      "Remove heavily infected lower leaves",
+      "Apply a sulfur-based organic fungicide if the infection is spreading fast",
+      "Ensure adequate spacing between plants"
+    ],
+    "prevention": [
+      "Plant rust-resistant corn varieties",
+      "Avoid dense planting that traps humidity"
+    ],
+    "severity": "medium"
+  },
+  "corn_northern_leaf_blight": {
+    "displayName": "Corn — Northern Leaf Blight",
+    "crop": "Corn",
+    "symptoms": "Long, gray-green, cigar-shaped lesions on the leaves.",
+    "organicTreatment": [
+      "Remove and destroy severely infected leaves",
+      "Apply an organic copper-based fungicide early in the infection",
+      "Improve field drainage and airflow"
+    ],
+    "prevention": [
+      "Rotate crops with non-host plants",
+      "Choose resistant hybrid varieties where possible"
+    ],
+    "severity": "medium"
+  },
+  "corn_healthy": {
+    "displayName": "Corn — Healthy",
+    "crop": "Corn",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": [
+      "No treatment needed",
+      "Continue regular monitoring"
+    ],
+    "prevention": [
+      "Maintain good soil nutrition and crop rotation"
+    ],
+    "severity": "low"
+  },
+  "apple_scab": {
+    "displayName": "Apple — Scab",
+    "crop": "Apple",
+    "symptoms": "Olive-green to dark scabby spots on leaves and fruit, which can cause leaves to curl and drop early.",
+    "organicTreatment": [
+      "Remove and destroy fallen leaves in autumn to reduce overwintering spores",
+      "Apply an organic sulfur or copper-based fungicide starting at bud break",
+      "Prune to improve air circulation through the canopy"
+    ],
+    "prevention": [
+      "Choose scab-resistant apple varieties",
+      "Rake and dispose of fallen leaves each season"
+    ],
+    "severity": "medium"
+  },
+  "apple_black_rot": {
+    "displayName": "Apple — Black Rot",
+    "crop": "Apple",
+    "symptoms": "Purple-bordered spots on leaves and sunken, rotting lesions on fruit.",
+    "organicTreatment": [
+      "Prune out dead or diseased wood and destroy it",
+      "Remove mummified fruit left on the tree or ground",
+      "Apply an organic copper-based fungicide during the growing season"
+    ],
+    "prevention": [
+      "Maintain good tree vigor with proper pruning and nutrition",
+      "Remove nearby infected plant debris promptly"
+    ],
+    "severity": "medium"
+  },
+  "apple_healthy": {
+    "displayName": "Apple — Healthy",
+    "crop": "Apple",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": [
+      "No treatment needed",
+      "Continue regular monitoring"
+    ],
+    "prevention": [
+      "Prune annually and maintain orchard sanitation"
+    ],
+    "severity": "low"
+  },
+  "pepper_bacterial_spot": {
+    "displayName": "Pepper — Bacterial Spot",
+    "crop": "Pepper",
+    "symptoms": "Small, water-soaked spots on leaves and fruit that turn brown and may cause leaves to drop.",
+    "organicTreatment": [
+      "Remove and destroy affected leaves and fruit",
+      "Apply an organic copper-based bactericide",
+      "Avoid working with plants while foliage is wet"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds",
+      "Rotate crops and avoid overhead watering"
+    ],
+    "severity": "medium"
+  },
+  "pepper_healthy": {
+    "displayName": "Pepper — Healthy",
+    "crop": "Pepper",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": [
+      "No treatment needed",
+      "Continue regular monitoring"
+    ],
+    "prevention": [
+      "Maintain crop rotation and balanced soil nutrition"
+    ],
+    "severity": "low"
+  },
+  "brinjal_leaf_spot": {
+    "displayName": "Brinjal — Leaf Spot",
+    "crop": "Brinjal",
+    "symptoms": "Small brown-to-grey spots on leaves, sometimes with a yellow halo, which can merge and cause leaf drop.",
+    "organicTreatment": [
+      "Remove and destroy affected leaves",
+      "Spray a neem oil solution every 7-10 days",
+      "Apply an organic copper-based fungicide if spreading continues"
+    ],
+    "prevention": [
+      "Avoid overhead watering",
+      "Space plants for good airflow",
+      "Rotate crops each season"
+    ],
+    "severity": "medium"
+  },
+  "brinjal_healthy": {
+    "displayName": "Brinjal — Healthy",
+    "crop": "Brinjal",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": ["No treatment needed", "Continue regular monitoring"],
+    "prevention": ["Maintain crop rotation and balanced soil nutrition"],
+    "severity": "low"
+  },
+  "cabbage_black_rot": {
+    "displayName": "Cabbage — Black Rot",
+    "crop": "Cabbage",
+    "symptoms": "Yellow, V-shaped lesions starting at leaf edges that turn brown as veins blacken.",
+    "organicTreatment": [
+      "Remove and destroy infected leaves and plant debris",
+      "Apply an organic copper-based bactericide",
+      "Avoid working with wet plants to prevent spreading"
+    ],
+    "prevention": [
+      "Use disease-free seeds",
+      "Rotate crops for 2-3 years between cabbage-family plantings"
+    ],
+    "severity": "medium"
+  },
+  "cabbage_healthy": {
+    "displayName": "Cabbage — Healthy",
+    "crop": "Cabbage",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": ["No treatment needed", "Continue regular monitoring"],
+    "prevention": ["Maintain crop rotation and balanced soil nutrition"],
+    "severity": "low"
+  },
+  "cauliflower_black_rot": {
+    "displayName": "Cauliflower — Black Rot",
+    "crop": "Cauliflower",
+    "symptoms": "Yellow V-shaped lesions on leaf margins with blackened veins, similar to cabbage black rot.",
+    "organicTreatment": [
+      "Remove and destroy infected leaves and debris",
+      "Apply an organic copper-based bactericide",
+      "Avoid overhead irrigation"
+    ],
+    "prevention": [
+      "Use certified disease-free seedlings",
+      "Rotate with non-cruciferous crops"
+    ],
+    "severity": "medium"
+  },
+  "cauliflower_healthy": {
+    "displayName": "Cauliflower — Healthy",
+    "crop": "Cauliflower",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": ["No treatment needed", "Continue regular monitoring"],
+    "prevention": ["Maintain crop rotation and balanced soil nutrition"],
+    "severity": "low"
+  },
+  "peanut_leaf_spot": {
+    "displayName": "Peanut — Early Leaf Spot",
+    "crop": "Peanut",
+    "symptoms": "Small, dark brown circular spots on leaves, often with a yellow halo.",
+    "organicTreatment": [
+      "Remove and destroy heavily affected leaves",
+      "Apply an organic sulfur or copper-based fungicide",
+      "Improve airflow between plants"
+    ],
+    "prevention": [
+      "Rotate with non-legume crops",
+      "Avoid dense planting",
+      "Remove crop residue after harvest"
+    ],
+    "severity": "medium"
+  },
+  "peanut_healthy": {
+    "displayName": "Peanut — Healthy",
+    "crop": "Peanut",
+    "symptoms": "No signs of disease detected.",
+    "organicTreatment": ["No treatment needed", "Continue regular monitoring"],
+    "prevention": ["Maintain crop rotation and balanced soil nutrition"],
+    "severity": "low"
+  }
+}
