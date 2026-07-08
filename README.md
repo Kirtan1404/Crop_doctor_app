@@ -40,12 +40,12 @@ Millions of smallholder farmers lose part of their harvest every season to crop 
 
 <table>
 <tr>
-<td width="50%">
-<img src="app_first_run.jpg" alt="Crop Doctor home screen running on an Android device" width="100%"/>
+<td width="10%">
+<img src="app_first_run.jpg" alt="Crop Doctor home screen running on an Android device" align="center" width="50%"/>
 <p align="center"><em>Running live on a physical Android device</em></p>
 </td>
-<td width="50%">
-<img src="home_screen.jpg" alt="Crop Doctor home screen with crop selector and scan flow" width="100%"/>
+<td width="10%">
+<img src="home_screen.jpg" alt="Crop Doctor home screen with crop selector and scan flow" align="center" width="50%"/>
 <p align="center"><em>Home screen — crop selector, tip banner, and the take a picture → see diagnosis → get treatment flow</em></p>
 </td>
 </tr>
